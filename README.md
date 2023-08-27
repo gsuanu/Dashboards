@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ryan
-- 👀 I’m interested in leaning more about data
-- 🌱 I’m currently learning data anlysis
+- 👋 Hi, I’m God'swill
+- 👀 I’m interested in learning more about data
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me gsuanu10@gmail.com
 
